@@ -26,7 +26,7 @@ Sorting Visualizer is a web application that demonstrates different sorting algo
 
 ## Demo
 
-[Live Demo](https://your-demo-link.com)
+[Live Demo](https://iam-mohammedtaha.github.io/sorting-visualizer/)
 
 ![Sorting Visualizer Screenshot](assets/screenshot.png)
 
